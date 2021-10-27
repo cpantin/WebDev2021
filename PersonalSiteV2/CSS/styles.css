@@ -1,0 +1,152 @@
+div {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  position: relative;
+}
+
+a{
+  color: #ffc700;
+  text-decoration: none;
+  margin: auto, 10px;
+  font-family: "Noto Sans Mono", monospace;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Noto Sans Mono", monospace;
+  font-size: 100%;
+  
+}
+
+h1 {
+  margin-top: 50px,auto,0,auto;
+  font-family: "Aladin", cursive;
+  font-size: 7.625rem;
+  color: #ffc700;
+  line-height: 2;
+}
+
+h2 {
+  font-family: "Oswald", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #ffc700;
+}
+
+h3 {
+  font-family: "Oswald", sans-serif;
+  color: #ffc700;
+
+}
+
+hr {
+  border-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+p{
+  line-height: 2;
+}
+
+
+.top-container {
+  background-color: #007fff;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+ background-color: #3A99FC;
+}
+
+.bottom-container {
+  background-color: #007fff;
+  padding: 50px;
+ 
+}
+.contact-me{
+  padding: 60px;
+  width: 50%;
+  margin: 0 auto 0 auto;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 30px;
+}
+
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align:left;
+}
+
+.code-image{
+  width: 25%;
+  margin-right: 30px;
+  float: left;
+}
+
+.game-image{
+  width: 25%;
+  margin-left: 30px;
+  float: right;
+}
+
+.intro{
+  width: 30%;
+  margin:50px auto 50px auto;
+}
+.BUTTON_TJD {
+  background: #3D94F6;
+  background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+  background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  color: #ffc700;
+  font-family: "Noto Sans Mono", monospace;
+  font-size: 21px;
+  font-weight: 100;
+  padding: 17px;
+  -webkit-box-shadow: 1px 1px 20px 0 #000000;
+  -moz-box-shadow: 1px 1px 20px 0 #000000;
+  box-shadow: 1px 1px 20px 0 #000000;
+  text-shadow: 1px 1px 20px #000000;
+  border: solid #337FED 1px;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+  margin: 50px;
+}
+
+.BUTTON_TJD:hover {
+  border: solid #337FED 1px;
+  background: #1E62D0;
+  background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+  background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
